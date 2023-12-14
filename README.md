@@ -47,7 +47,8 @@ For any additional information or inquiries, please open an issue in this reposi
 Thank you for your interest in our New York City rental pricing analysis project!
 
 If you're interested in exploring the tableau storytelling project, check it outon;
-Tableau Public - New York City Rental Properties Pricing Case Study.
+<a href="https://public.tableau.com/app/profile/nonso.ezeoma/viz/NewYorkCityRentalPropertiesPricingCaseStudy/Final?publish=yes">Tableau Public - New York City Rental Properties Pricing Case Study</a>
+
 
 
 
