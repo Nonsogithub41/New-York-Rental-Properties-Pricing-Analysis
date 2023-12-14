@@ -45,3 +45,12 @@ The data for this analysis was sourced from publicly available data sourcing web
 For any additional information or inquiries, please open an issue in this repository.
 
 Thank you for your interest in our New York City rental pricing analysis project!
+
+If you're interested in exploring the tableau storytelling project, check it outon;
+Tableau Public - New York City Rental Properties Pricing Case Study.
+
+
+
+
+
+
